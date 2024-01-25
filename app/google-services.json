@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "364450706037",
+    "project_id": "confession-9db66",
+    "storage_bucket": "confession-9db66.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:364450706037:android:22b4a116d19ef94aa1be3c",
+        "android_client_info": {
+          "package_name": "com.example.confession"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWp8OYY5Hph6K0g8sCU3FUDlOn8xtAy24"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
